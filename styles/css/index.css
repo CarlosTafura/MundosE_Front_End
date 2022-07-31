@@ -1,0 +1,23 @@
+.skillTitle {
+  font-family: Arial, helvetica, sans-serif;
+  font-size: 40px;
+}
+
+.skillTitle {
+  color: red;
+}
+
+.educationTitle {
+  color: green;
+}
+
+.aboutTitle {
+  color: purple;
+}
+
+#profilePic {
+  border-radius: 100px;
+  width: 266px;
+  height: 200px;
+  border: solid black 10px;
+}
